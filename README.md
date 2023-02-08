@@ -34,3 +34,6 @@ rails test:system
     
 $ redis-server
 $ rails s
+
+TODO
+ - Figure out locales labels not working
